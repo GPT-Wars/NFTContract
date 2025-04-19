@@ -2,7 +2,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider");
 const path = require("path");
 
 const mnemonic =
-  "artefact muscle now club answer ask vendor okay loop believe party amazing";
+  "rival soap tube visit ramp gasp online wage risk friend pistol tenant";
 
 module.exports = {
   contracts_build_directory: path.join(__dirname, "/contracts"),
